@@ -1,0 +1,100 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" rx="20" fill="url(#paint0_linear)" fill-opacity="0.1" />
+  
+  <!-- Grid Pattern -->
+  <path d="M0 40H600M0 80H600M0 120H600M0 160H600M0 200H600M0 240H600M0 280H600M0 320H600M0 360H600" stroke="#6366F1" stroke-width="0.5" stroke-opacity="0.2" />
+  <path d="M40 0V400M80 0V400M120 0V400M160 0V400M200 0V400M240 0V400M280 0V400M320 0V400M360 0V400M400 0V400M440 0V400M480 0V400M520 0V400M560 0V400" stroke="#6366F1" stroke-width="0.5" stroke-opacity="0.2" />
+  
+  <!-- Letter A -->
+  <g transform="translate(50, 100)">
+    <circle cx="30" cy="30" r="25" fill="#6366F1" fill-opacity="0.1" />
+    <path d="M30 10V40M20 25L30 15L40 25" stroke="#6366F1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#6366F1" font-family="sans-serif" font-size="12">A</text>
+  </g>
+  
+  <!-- Letter B -->
+  <g transform="translate(120, 100)">
+    <circle cx="30" cy="30" r="25" fill="#8B5CF6" fill-opacity="0.1" />
+    <path d="M20 10V50M20 15H35C38.866 15 42 18.134 42 22C42 25.866 38.866 29 35 29H20M20 29H35C38.866 29 42 32.134 42 36C42 39.866 38.866 43 35 43H20" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#8B5CF6" font-family="sans-serif" font-size="12">B</text>
+  </g>
+  
+  <!-- Letter C -->
+  <g transform="translate(190, 100)">
+    <circle cx="30" cy="30" r="25" fill="#EC4899" fill-opacity="0.1" />
+    <path d="M40 15C36.5 11.5 32 10 28 10C20.268 10 14 16.268 14 24C14 31.732 20.268 38 28 38C32 38 36.5 36.5 40 33" stroke="#EC4899" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#EC4899" font-family="sans-serif" font-size="12">C</text>
+  </g>
+  
+  <!-- Letter D -->
+  <g transform="translate(260, 100)">
+    <circle cx="30" cy="30" r="25" fill="#6366F1" fill-opacity="0.1" />
+    <path d="M20 10V50M20 15H30C37.732 15 44 21.268 44 29C44 36.732 37.732 43 30 43H20" stroke="#6366F1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#6366F1" font-family="sans-serif" font-size="12">D</text>
+  </g>
+  
+  <!-- Letter E -->
+  <g transform="translate(330, 100)">
+    <circle cx="30" cy="30" r="25" fill="#8B5CF6" fill-opacity="0.1" />
+    <path d="M40 15H20V50M20 30H35M20 15V50M20 50H40" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#8B5CF6" font-family="sans-serif" font-size="12">E</text>
+  </g>
+  
+  <!-- Letter F -->
+  <g transform="translate(400, 100)">
+    <circle cx="30" cy="30" r="25" fill="#EC4899" fill-opacity="0.1" />
+    <path d="M40 15H20V50M20 30H35" stroke="#EC4899" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#EC4899" font-family="sans-serif" font-size="12">F</text>
+  </g>
+  
+  <!-- Letter G -->
+  <g transform="translate(470, 100)">
+    <circle cx="30" cy="30" r="25" fill="#6366F1" fill-opacity="0.1" />
+    <path d="M40 15C36.5 11.5 32 10 28 10C20.268 10 14 16.268 14 24C14 31.732 20.268 38 28 38C32 38 36.5 36.5 40 33V25H30" stroke="#6366F1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#6366F1" font-family="sans-serif" font-size="12">G</text>
+  </g>
+  
+  <!-- Letter H -->
+  <g transform="translate(120, 200)">
+    <circle cx="30" cy="30" r="25" fill="#8B5CF6" fill-opacity="0.1" />
+    <path d="M15 10V50M45 10V50M15 30H45" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#8B5CF6" font-family="sans-serif" font-size="12">H</text>
+  </g>
+  
+  <!-- Letter I -->
+  <g transform="translate(190, 200)">
+    <circle cx="30" cy="30" r="25" fill="#EC4899" fill-opacity="0.1" />
+    <path d="M30 10V50M20 10H40M20 50H40" stroke="#EC4899" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#EC4899" font-family="sans-serif" font-size="12">I</text>
+  </g>
+  
+  <!-- Letter J -->
+  <g transform="translate(260, 200)">
+    <circle cx="30" cy="30" r="25" fill="#6366F1" fill-opacity="0.1" />
+    <path d="M35 10V40C35 43.866 31.866 47 28 47C24.134 47 21 43.866 21 40M25 10H45" stroke="#6366F1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#6366F1" font-family="sans-serif" font-size="12">J</text>
+  </g>
+  
+  <!-- Letter K -->
+  <g transform="translate(330, 200)">
+    <circle cx="30" cy="30" r="25" fill="#8B5CF6" fill-opacity="0.1" />
+    <path d="M15 10V50M15 30L40 10M15 30L40 50" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#8B5CF6" font-family="sans-serif" font-size="12">K</text>
+  </g>
+  
+  <!-- Letter L -->
+  <g transform="translate(400, 200)">
+    <circle cx="30" cy="30" r="25" fill="#EC4899" fill-opacity="0.1" />
+    <path d="M20 10V50H45" stroke="#EC4899" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="30" y="60" text-anchor="middle" fill="#EC4899" font-family="sans-serif" font-size="12">L</text>
+  </g>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="600" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4B5FD" />
+      <stop offset="1" stop-color="#F9A8D4" />
+    </linearGradient>
+  </defs>
+</svg>
